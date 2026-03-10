@@ -1,0 +1,20 @@
+{
+  "name": "Govt Polytechnic Sehore",
+  "short_name": "KSPS",
+  "start_url": "https://kspsehore.ac.in/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003366",
+  "icons": [
+    {
+      "src": "https://kspsehore.ac.in/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://kspsehore.ac.in/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
